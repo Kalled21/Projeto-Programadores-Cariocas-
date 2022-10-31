@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-size: 22px;
+
+
+}
+
+.centro{
+    display: inline-block;
+}
+section{
+    position: absolute;
+}
+
+div{
+    display: flexz;
+}
+
+.imagens-pp{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
